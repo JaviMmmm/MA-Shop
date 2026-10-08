@@ -1,0 +1,714 @@
+[
+ {
+  "id": "natura-ekos-castana",
+  "nombre": "Ekos Castaña: pulpa hidratante para manos 75 g",
+  "marca": "Natura",
+  "categoria": "Cuerpo y manos",
+  "precio": 0,
+  "icono": "🌰"
+ },
+ {
+  "id": "natura-tododia",
+  "nombre": "Tododia: cremas, jabones y body splash",
+  "marca": "Natura",
+  "categoria": "Cuerpo y manos",
+  "precio": 0,
+  "icono": "🧴"
+ },
+ {
+  "id": "natura-chronos",
+  "nombre": "Chronos: cuidado facial",
+  "marca": "Natura",
+  "categoria": "Rostro",
+  "precio": 0,
+  "icono": "✨"
+ },
+ {
+  "id": "natura-kaiak",
+  "nombre": "Kaiak: perfumería",
+  "marca": "Natura",
+  "categoria": "Perfumería",
+  "precio": 0,
+  "icono": "🌊"
+ },
+ {
+  "id": "natura-essencial",
+  "nombre": "Essencial: perfumería",
+  "marca": "Natura",
+  "categoria": "Perfumería",
+  "precio": 0,
+  "icono": "🌿"
+ },
+ {
+  "id": "avon-far-away",
+  "nombre": "Far Away: perfume",
+  "marca": "Avon",
+  "categoria": "Perfumería",
+  "precio": 0,
+  "icono": "💜"
+ },
+ {
+  "id": "avon-lbd",
+  "nombre": "Little Black Dress: perfume",
+  "marca": "Avon",
+  "categoria": "Perfumería",
+  "precio": 0,
+  "icono": "🖤"
+ },
+ {
+  "id": "avon-imari",
+  "nombre": "Imari: perfume y cuerpo",
+  "marca": "Avon",
+  "categoria": "Perfumería",
+  "precio": 0,
+  "icono": "🌸"
+ },
+ {
+  "id": "avon-anew",
+  "nombre": "Anew: cuidado facial",
+  "marca": "Avon",
+  "categoria": "Rostro",
+  "precio": 0,
+  "icono": "💧"
+ },
+ {
+  "id": "avon-care",
+  "nombre": "Avon Care: cremas de manos y cuerpo",
+  "marca": "Avon",
+  "categoria": "Cuerpo y manos",
+  "precio": 0,
+  "icono": "🧴"
+ },
+ {
+  "id": "avon-ultra",
+  "nombre": "Ultra: labiales",
+  "marca": "Avon",
+  "categoria": "Maquillaje",
+  "precio": 0,
+  "icono": "💄"
+ },
+ {
+  "id": "ce-253431",
+  "nombre": "Juego de sábanas Arizona matrimonial",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛏️",
+  "codigo": "253431",
+  "pagina_c14": 4,
+  "ref_c14": {
+   "normal": 756.0,
+   "campana": 540.0
+  }
+ },
+ {
+  "id": "ce-253425",
+  "nombre": "Juego de sábanas Arizona king size",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛏️",
+  "codigo": "253425",
+  "pagina_c14": 4,
+  "ref_c14": {
+   "normal": 1106.0,
+   "campana": 790.0
+  }
+ },
+ {
+  "id": "ce-253475",
+  "nombre": "Edredón capitonado Arizona matrimonial",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛏️",
+  "codigo": "253475",
+  "pagina_c14": 5,
+  "ref_c14": {
+   "normal": 1539.0,
+   "campana": 1220.0
+  }
+ },
+ {
+  "id": "ce-253421",
+  "nombre": "Edredón capitonado Arizona king size",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛏️",
+  "codigo": "253421",
+  "pagina_c14": 5,
+  "ref_c14": {
+   "normal": 2239.0,
+   "campana": 1599.0
+  }
+ },
+ {
+  "id": "ce-204039",
+  "nombre": "Cortina de recámara Erick (2 paneles)",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🪟",
+  "codigo": "204039",
+  "pagina_c14": 6,
+  "ref_c14": {
+   "normal": 713.0,
+   "campana": 499.99
+  }
+ },
+ {
+  "id": "ce-253476",
+  "nombre": "Juego de baño Arizona",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛁",
+  "codigo": "253476",
+  "pagina_c14": 8,
+  "ref_c14": {
+   "normal": 448.0,
+   "campana": 319.99
+  }
+ },
+ {
+  "id": "ce-253473",
+  "nombre": "Cubre sillón 1 plaza Olivo",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛋️",
+  "codigo": "253473",
+  "pagina_c14": 11,
+  "ref_c14": {
+   "normal": 742.0,
+   "campana": 529.99
+  }
+ },
+ {
+  "id": "ce-253410",
+  "nombre": "Cubre sillón 2 plazas Olivo",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛋️",
+  "codigo": "253410",
+  "pagina_c14": 11,
+  "ref_c14": {
+   "normal": 882.0,
+   "campana": 629.99
+  }
+ },
+ {
+  "id": "ce-235053",
+  "nombre": "Juego de sábanas matrimonial con relieve",
+  "marca": "Casa y Estilo",
+  "categoria": "Blancos",
+  "precio": 0,
+  "icono": "🛏️",
+  "codigo": "235053",
+  "pagina_c14": 14,
+  "ref_c14": {
+   "normal": 750.0,
+   "campana": 525.0
+  }
+ },
+ {
+  "id": "ce-200438",
+  "nombre": "Juego de 4 organizadores gris",
+  "marca": "Casa y Estilo",
+  "categoria": "Organizadores",
+  "precio": 0,
+  "icono": "🧺",
+  "codigo": "200438",
+  "pagina_c14": 20,
+  "ref_c14": {
+   "normal": 429.0,
+   "campana": 279.99
+  }
+ },
+ {
+  "id": "ce-196997",
+  "nombre": "Organizador colgante atrapasueños",
+  "marca": "Casa y Estilo",
+  "categoria": "Organizadores",
+  "precio": 0,
+  "icono": "🧺",
+  "codigo": "196997",
+  "pagina_c14": 20,
+  "ref_c14": {
+   "normal": 243.0,
+   "campana": 159.99
+  }
+ },
+ {
+  "id": "ce-196819",
+  "nombre": "Juego de organizadores atrapasueños",
+  "marca": "Casa y Estilo",
+  "categoria": "Organizadores",
+  "precio": 0,
+  "icono": "🧺",
+  "codigo": "196819",
+  "pagina_c14": 21,
+  "ref_c14": {
+   "normal": 416.0,
+   "campana": 279.99
+  }
+ },
+ {
+  "id": "ce-196970",
+  "nombre": "Zapatera colgante atrapasueños",
+  "marca": "Casa y Estilo",
+  "categoria": "Organizadores",
+  "precio": 0,
+  "icono": "👟",
+  "codigo": "196970",
+  "pagina_c14": 21,
+  "ref_c14": {
+   "normal": 472.0,
+   "campana": 249.99
+  }
+ },
+ {
+  "id": "ce-230498",
+  "nombre": "Toalla organizadora vino",
+  "marca": "Casa y Estilo",
+  "categoria": "Organizadores",
+  "precio": 0,
+  "icono": "🧺",
+  "codigo": "230498",
+  "pagina_c14": 22,
+  "ref_c14": {
+   "normal": 158.0,
+   "campana": 99.99
+  }
+ },
+ {
+  "id": "ce-193077",
+  "nombre": "Tetera de vidrio fuego directo, 800 ml",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🫖",
+  "codigo": "193077",
+  "pagina_c14": 29,
+  "ref_c14": {
+   "normal": 429.0,
+   "campana": 299.99
+  }
+ },
+ {
+  "id": "ce-226211",
+  "nombre": "Capuchineros blush",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "☕",
+  "codigo": "226211",
+  "pagina_c14": 28,
+  "ref_c14": {
+   "normal": 372.0,
+   "campana": 259.99
+  }
+ },
+ {
+  "id": "ce-232713",
+  "nombre": "Vasos esencial",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🥛",
+  "codigo": "232713",
+  "pagina_c14": 31,
+  "ref_c14": {
+   "normal": 122.0,
+   "campana": 79.99
+  }
+ },
+ {
+  "id": "ce-192999",
+  "nombre": "Juego de 4 vasos de cristal",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🥛",
+  "codigo": "192999",
+  "pagina_c14": 33,
+  "ref_c14": {
+   "normal": 315.0,
+   "campana": 179.99
+  }
+ },
+ {
+  "id": "ce-229526",
+  "nombre": "Prensa francesa black",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "☕",
+  "codigo": "229526",
+  "pagina_c14": 34,
+  "ref_c14": {
+   "normal": 400.0,
+   "campana": 279.99
+  }
+ },
+ {
+  "id": "ce-253383",
+  "nombre": "Set de 2 flaneras con tapa",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🍮",
+  "codigo": "253383",
+  "pagina_c14": 35,
+  "ref_c14": {
+   "normal": null,
+   "campana": null
+  }
+ },
+ {
+  "id": "ce-235014",
+  "nombre": "Juego de 4 tazas coquette",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "☕",
+  "codigo": "235014",
+  "pagina_c14": 36,
+  "ref_c14": {
+   "normal": 723.0,
+   "campana": 359.99
+  }
+ },
+ {
+  "id": "ce-235124",
+  "nombre": "Juego de 4 platos planos coquette",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🍽️",
+  "codigo": "235124",
+  "pagina_c14": 36,
+  "ref_c14": {
+   "normal": 556.0,
+   "campana": 359.99
+  }
+ },
+ {
+  "id": "ce-235016",
+  "nombre": "Juego de 4 platos profundos coquette",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🍽️",
+  "codigo": "235016",
+  "pagina_c14": 36,
+  "ref_c14": {
+   "normal": 572.0,
+   "campana": 359.99
+  }
+ },
+ {
+  "id": "ce-235125",
+  "nombre": "Cacerola redonda basic rose",
+  "marca": "Casa y Estilo",
+  "categoria": "Cocina",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "235125",
+  "pagina_c14": 39,
+  "ref_c14": {
+   "normal": 658.0,
+   "campana": null
+  }
+ },
+ {
+  "id": "ce-203898",
+  "nombre": "Vaporera ocre de acero vitrificado",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "203898",
+  "pagina_c14": 40,
+  "ref_c14": {
+   "normal": 1000.0,
+   "campana": 599.99
+  }
+ },
+ {
+  "id": "ce-196848",
+  "nombre": "Vaporera de peltre con rejilla",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "196848",
+  "pagina_c14": 41,
+  "ref_c14": {
+   "normal": 1286.0,
+   "campana": 899.99
+  }
+ },
+ {
+  "id": "ce-212732",
+  "nombre": "Plancha rectangular de aluminio",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍳",
+  "codigo": "212732",
+  "pagina_c14": 42,
+  "ref_c14": {
+   "normal": 1486.0,
+   "campana": 999.99
+  }
+ },
+ {
+  "id": "ce-259524",
+  "nombre": "Juego de 3 sartenes rosas",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍳",
+  "codigo": "259524",
+  "pagina_c14": 43,
+  "ref_c14": {
+   "normal": null,
+   "campana": null
+  }
+ },
+ {
+  "id": "ce-230508",
+  "nombre": "Olla blush de acero vitrificado",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "230508",
+  "pagina_c14": 45,
+  "ref_c14": {
+   "normal": 1572.0,
+   "campana": null
+  }
+ },
+ {
+  "id": "ce-226188",
+  "nombre": "Arrocera blush",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍚",
+  "codigo": "226188",
+  "pagina_c14": 46,
+  "ref_c14": {
+   "normal": 1429.0,
+   "campana": 999.99
+  }
+ },
+ {
+  "id": "ce-230495",
+  "nombre": "Sartén blush de acero vitrificado 24 cm",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍳",
+  "codigo": "230495",
+  "pagina_c14": 47,
+  "ref_c14": {
+   "normal": null,
+   "campana": null
+  }
+ },
+ {
+  "id": "ce-196927",
+  "nombre": "Maxi ollas de acero black",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "196927",
+  "pagina_c14": 51,
+  "ref_c14": {
+   "normal": 2286.0,
+   "campana": 1499.0
+  }
+ },
+ {
+  "id": "ce-209471",
+  "nombre": "Tazones de acero con tapa",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🥣",
+  "codigo": "209471",
+  "pagina_c14": 52,
+  "ref_c14": {
+   "normal": 386.0,
+   "campana": 229.99
+  }
+ },
+ {
+  "id": "ce-200320",
+  "nombre": "Juego de 3 ollas con asa inox",
+  "marca": "Casa y Estilo",
+  "categoria": "Sartenería",
+  "precio": 0,
+  "icono": "🍲",
+  "codigo": "200320",
+  "pagina_c14": 53,
+  "ref_c14": {
+   "normal": 1643.0,
+   "campana": 999.99
+  }
+ },
+ {
+  "id": "ce-253454",
+  "nombre": "Contenedor con divisiones Cars",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🍱",
+  "codigo": "253454",
+  "pagina_c14": 168,
+  "ref_c14": {
+   "normal": 205.0,
+   "campana": 144.99
+  }
+ },
+ {
+  "id": "ce-253478",
+  "nombre": "Sandwichera lenticular Cars",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🥪",
+  "codigo": "253478",
+  "pagina_c14": 169,
+  "ref_c14": {
+   "normal": 125.0,
+   "campana": 84.99
+  }
+ },
+ {
+  "id": "ce-193001",
+  "nombre": "Tazón vision tech Spidey",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🥣",
+  "codigo": "193001",
+  "pagina_c14": 170,
+  "ref_c14": {
+   "normal": 71.0,
+   "campana": 49.99
+  }
+ },
+ {
+  "id": "ce-197129",
+  "nombre": "Lunch box rectangular Spidey",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🍱",
+  "codigo": "197129",
+  "pagina_c14": 170,
+  "ref_c14": {
+   "normal": 194.0,
+   "campana": 129.99
+  }
+ },
+ {
+  "id": "ce-196879",
+  "nombre": "Contenedores circulares Spidey",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🍱",
+  "codigo": "196879",
+  "pagina_c14": 171,
+  "ref_c14": {
+   "normal": 178.0,
+   "campana": 99.99
+  }
+ },
+ {
+  "id": "ce-192951",
+  "nombre": "Juego de vasos vision tech Spidey",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🥤",
+  "codigo": "192951",
+  "pagina_c14": 171,
+  "ref_c14": {
+   "normal": 58.0,
+   "campana": 19.99
+  }
+ },
+ {
+  "id": "ce-238407",
+  "nombre": "Botella con popote Spider-Man",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🧃",
+  "codigo": "238407",
+  "pagina_c14": 173,
+  "ref_c14": {
+   "normal": 147.0,
+   "campana": 99.99
+  }
+ },
+ {
+  "id": "ce-240116",
+  "nombre": "Taza forma 3D Spider-Man",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "☕",
+  "codigo": "240116",
+  "pagina_c14": 174,
+  "ref_c14": {
+   "normal": 80.0,
+   "campana": 54.99
+  }
+ },
+ {
+  "id": "ce-226146",
+  "nombre": "Súper vaso 3D Spider-Man",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🥤",
+  "codigo": "226146",
+  "pagina_c14": 175,
+  "ref_c14": {
+   "normal": 152.0,
+   "campana": 109.99
+  }
+ },
+ {
+  "id": "ce-196719",
+  "nombre": "Contenedor con cubiertos Spider-Man",
+  "marca": "Casa y Estilo",
+  "categoria": "Niñez a comer",
+  "precio": 0,
+  "icono": "🍴",
+  "codigo": "196719",
+  "pagina_c14": 173,
+  "ref_c14": {
+   "normal": 157.0,
+   "campana": 114.99
+  }
+ },
+ {
+  "id": "mp-terminal",
+  "nombre": "Terminal Mercado Pago",
+  "marca": "Mercado Pago",
+  "categoria": "Negocios",
+  "precio": 0,
+  "icono": "💳"
+ }
+]
