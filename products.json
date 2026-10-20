@@ -704,11 +704,17 @@
   }
  },
  {
-  "id": "mp-terminal",
-  "nombre": "Terminal Mercado Pago",
-  "marca": "Mercado Pago",
-  "categoria": "Negocios",
-  "precio": 0,
-  "icono": "💳"
+  "id": "point-smart-2",
+  "nombre": "Point Smart 2",
+  "marca": "Terminales Point",
+  "categoria": "Terminal",
+  "precio": 499
+ },
+ {
+  "id": "point-mini",
+  "nombre": "Point Mini",
+  "marca": "Terminales Point",
+  "categoria": "Terminal",
+  "precio": 99
  }
 ]
