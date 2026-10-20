@@ -1,0 +1,359 @@
+{
+ "mercadolibre": {
+  "titulo": "Mercado Libre",
+  "intro": "Aquí puedes ver lo que vendo en Mercado Libre.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "",
+  "url": "",
+  "boton": "Ver mi tienda en Mercado Libre",
+  "nota": "Pronto agregaré el enlace a mi tienda."
+ },
+ "point-smart-2": {
+  "titulo": "Point Smart 2",
+  "imagen": "img/point-smart-2.webp",
+  "precio": "$499 MXN",
+  "msi": "o 3 MSI de $167",
+  "intro": "Terminal independiente con pantalla táctil, conexión Wi-Fi/4G e impresora integrada. Incluye tarjeta Debit Mastercard.",
+  "corta": "Pantalla, impresora y 4G.",
+  "ficha": [
+   [
+    "Modelo",
+    "Point Smart 2"
+   ],
+   [
+    "Tipo",
+    "Terminal punto de venta portátil e independiente"
+   ],
+   [
+    "Pantalla",
+    "Táctil de 5.9 pulgadas; resolución indicada de 720 × 1440 píxeles"
+   ],
+   [
+    "Sistema y rendimiento",
+    "Android 12; procesador Cortex A53 de 2.0 GHz; 2 GB RAM; 16 GB de almacenamiento"
+   ],
+   [
+    "Batería",
+    "5,200 mAh; 7.2 V / 18.7 Wh"
+   ],
+   [
+    "Conectividad",
+    "Wi-Fi y 4G; servicio móvil sujeto a las condiciones de Mercado Pago"
+   ],
+   [
+    "Impresora",
+    "Integrada para comprobantes físicos"
+   ],
+   [
+    "Comprobantes",
+    "Impresos y opciones digitales, según las funciones disponibles"
+   ],
+   [
+    "Dimensiones y peso",
+    "Aprox. 201 × 80 × 62 mm; 464 g"
+   ],
+   [
+    "Carga",
+    "USB-C"
+   ],
+   [
+    "Renta mensual",
+    "Sin renta mensual según la oferta comercial consultada"
+   ],
+   [
+    "Recepción de ventas",
+    "Los cobros se acreditan en la cuenta de Mercado Pago asociada, conforme a sus condiciones"
+   ]
+  ],
+  "funciones": [
+   "Aceptación de tarjetas: crédito y débito compatibles; modalidades como chip y pago sin contacto, según tarjeta y operación.",
+   "Uso independiente: permite cobrar sin mantener un celular conectado, siempre que tenga conexión disponible.",
+   "Tickets físicos: impresora integrada para entregar comprobantes al cliente.",
+   "Comprobantes digitales: envío por los medios habilitados durante la operación.",
+   "Funciones adicionales: algunas cuentas pueden tener propinas, recargas y meses sin intereses, sujetas a elegibilidad y condiciones."
+  ],
+  "paquete": "El paquete puede incluir terminal, cable y adaptador de carga, papel para impresión y chip/servicio de datos, según versión y oferta. Incluye tarjeta Debit Mastercard. Confirma el contenido exacto del producto antes de comprar.",
+  "comisiones": "No tener renta mensual no significa procesar pagos gratis. Se cobran comisiones por transacción y pueden existir cargos adicionales por promociones como meses sin intereses. La tarifa exacta depende de las condiciones vigentes de la cuenta y del producto.",
+  "ideal": [
+   "Tiendas con mostrador, boutiques y comercios establecidos.",
+   "Restaurantes, cafeterías, estéticas y negocios que necesitan entregar tickets.",
+   "Negocios que prefieren una terminal independiente en lugar de depender del teléfono del vendedor."
+  ]
+ },
+ "point-mini": {
+  "titulo": "Point Mini",
+  "imagen": "img/point-mini.webp",
+  "precio": "$99 MXN",
+  "msi": "o 3 MSI de $33",
+  "intro": "Lector compacto que se conecta por Bluetooth a un celular compatible. Incluye tarjeta Debit Mastercard.",
+  "corta": "Lector portátil con Bluetooth.",
+  "ficha": [
+   [
+    "Modelo",
+    "Point Mini"
+   ],
+   [
+    "Tipo",
+    "Lector de tarjetas portátil"
+   ],
+   [
+    "Conectividad",
+    "Bluetooth 4.2 BLE; se vincula con un celular compatible"
+   ],
+   [
+    "Internet",
+    "Utiliza la conexión a internet del celular"
+   ],
+   [
+    "Batería",
+    "1,500 mAh, según la ficha de referencia"
+   ],
+   [
+    "Dimensiones y peso",
+    "Aprox. 102.7 × 55.8 × 16.5 mm; 67 g"
+   ],
+   [
+    "Carga",
+    "USB-C, según versión"
+   ],
+   [
+    "Impresora",
+    "No tiene impresora integrada"
+   ],
+   [
+    "Comprobantes",
+    "Digitales por los medios disponibles, como SMS o correo electrónico"
+   ],
+   [
+    "Renta mensual",
+    "Sin renta mensual según la oferta comercial consultada"
+   ],
+   [
+    "Recepción de ventas",
+    "Los cobros se acreditan en la cuenta de Mercado Pago asociada, conforme a sus condiciones"
+   ]
+  ],
+  "funciones": [
+   "Aceptación de tarjetas: crédito y débito compatibles; las modalidades disponibles dependen del modelo y la tarjeta.",
+   "Conexión al celular: requiere vincularse por Bluetooth con un teléfono compatible y utilizar la aplicación de Mercado Pago.",
+   "Comprobantes digitales: permite enviar comprobantes por los medios habilitados en la operación.",
+   "Portabilidad: tamaño y peso reducidos, conveniente para bazares, entregas, eventos y ventas a domicilio.",
+   "Herramientas de la aplicación: pueden existir funciones adicionales, como enlaces de pago, que se gestionan desde la app y no necesariamente desde el lector."
+  ],
+  "paquete": "Puede incluir el lector, cable de carga y materiales promocionales, dependiendo de la oferta. Incluye tarjeta Debit Mastercard. Confirma los accesorios incluidos antes de comprar.",
+  "comisiones": "La Point Mini cobra comisiones por transacción. Consulta la tarifa vigente antes de comprar. No es una terminal sin comisiones.",
+  "ideal": [
+   "Emprendedores que están empezando a aceptar tarjetas.",
+   "Vendedores de ropa, accesorios y productos por catálogo.",
+   "Profesionales independientes y personas que cobran en domicilios, bazares o eventos."
+  ]
+ },
+ "nu": {
+  "titulo": "NU",
+  "intro": "Obtén tu tarjeta en minutos desde mi invitación.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "",
+  "url": "https://nubank.com.mx/mgm/?id=eBWsFvN0dImbyB0qVRMf3A&msg=35985&utm_channel=referral&utm_medium=whatsapp&utm_source=mgm",
+  "boton": "Solicitar mi tarjeta Nu",
+  "nota": "",
+  "imagen": "img/tarjeta-nu.webp"
+ },
+ "klar": {
+  "titulo": "KLAR",
+  "intro": "Regístrate en Klar desde mi enlace de referido.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "ODM2NUYZ",
+  "url": "https://signup.klar.mx?code=ODM2NUYZ&utm_source=Referral&utm_medium=Referral&pid=Referral&utm_campaign=Offer_Screen&c=Offer_Screen",
+  "boton": "Solicitar mi tarjeta Klar",
+  "nota": "",
+  "imagen": "img/tarjeta-klar.webp"
+ },
+ "plata": {
+  "titulo": "PLATA Card",
+  "intro": "Únete a través de mi enlace personal.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "javier4ry8",
+  "url": "https://bancoplata.mx/amigos/credito/javier4ry8",
+  "boton": "Solicitar mi tarjeta Plata Card",
+  "nota": "",
+  "imagen": "img/tarjeta-plata.webp"
+ },
+ "stori": {
+  "titulo": "STORI",
+  "intro": "Abre tu cuenta en menos de 5 minutos desde mi enlace.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "",
+  "url": "https://storicard.onelink.me/uu1Y/jdhrc6tr",
+  "boton": "Solicitar mi tarjeta Stori",
+  "nota": "",
+  "imagen": "img/tarjeta-stori.webp"
+ },
+ "mercadopago": {
+  "titulo": "Mercado Pago",
+  "intro": "Abre tu cuenta de Mercado Pago.",
+  "como": "",
+  "beneficios": [],
+  "codigo": "",
+  "url": "https://mpago.li/1bYW6Q6",
+  "boton": "Crear mi cuenta",
+  "nota": "",
+  "imagen": "img/tarjeta-mercadopago.webp"
+ },
+ "representantes": {
+  "titulo": "Representantes Point",
+  "intro": "Conviértete en representante y ofrece terminales Point de Mercado Pago.",
+  "como": "Para vender terminales de Mercado Pago se necesita una cuenta digital verificada y solicitar los dispositivos desde la app o el portal oficial.",
+  "beneficios": [],
+  "codigo": "",
+  "url": "",
+  "boton": "Quiero ser representante",
+  "nota": "Pregúntame cómo empezar y qué necesitas."
+ },
+ "aviso_unete": "Aviso: si solicitas tu tarjeta desde mis enlaces, yo puedo recibir un beneficio por referirte, sin costo extra para ti. La aprobación, límites, costos y condiciones dependen de cada institución. Esta información no es asesoría financiera: revisa siempre las condiciones vigentes en el sitio oficial antes de contratar.",
+ "comparativa": [
+  [
+   "",
+   "Point Smart 2",
+   "Point Mini"
+  ],
+  [
+   "Formato",
+   "Terminal independiente",
+   "Lector compacto"
+  ],
+  [
+   "¿Necesita celular?",
+   "No, requiere conexión propia disponible",
+   "Sí, se vincula a un celular compatible"
+  ],
+  [
+   "Conectividad",
+   "Wi-Fi y 4G",
+   "Bluetooth con el celular"
+  ],
+  [
+   "Impresora",
+   "Sí",
+   "No"
+  ],
+  [
+   "Comprobantes",
+   "Impresos y digitales",
+   "Digitales"
+  ],
+  [
+   "Portabilidad",
+   "Portátil, más grande",
+   "Muy ligera y compacta"
+  ],
+  [
+   "Ideal para",
+   "Mostrador y negocio establecido",
+   "Ventas móviles y emprendimientos"
+  ],
+  [
+   "Renta mensual",
+   "Sin renta mensual",
+   "Sin renta mensual"
+  ],
+  [
+   "Comisión por cobro",
+   "Sí",
+   "Sí"
+  ]
+ ],
+ "point_info": {
+  "regla": "Elige Point Smart 2 si necesitas impresora y autonomía. Elige Point Mini si prefieres un tamaño compacto y ya tienes un celular compatible.",
+  "comparativa": [
+   [
+    "Formato",
+    "Terminal independiente",
+    "Lector compacto"
+   ],
+   [
+    "¿Necesita celular para cobrar?",
+    "No; requiere conexión propia disponible",
+    "Sí; se vincula a un celular compatible"
+   ],
+   [
+    "Conectividad",
+    "Wi-Fi y 4G",
+    "Bluetooth con el celular"
+   ],
+   [
+    "Impresora integrada",
+    "Sí",
+    "No"
+   ],
+   [
+    "Tickets físicos",
+    "Sí",
+    "No; comprobantes digitales"
+   ],
+   [
+    "Portabilidad",
+    "Portátil, más grande y pesada",
+    "Muy ligera y compacta"
+   ],
+   [
+    "Uso sugerido",
+    "Mostrador y negocio establecido",
+    "Ventas móviles y emprendimientos"
+   ],
+   [
+    "Renta mensual",
+    "Sin renta mensual según oferta consultada",
+    "Sin renta mensual según oferta consultada"
+   ],
+   [
+    "Comisión por cobro",
+    "Sí",
+    "Sí"
+   ]
+  ],
+  "faq": [
+   [
+    "¿Necesito tener un negocio formalmente registrado?",
+    "Los requisitos dependen del tipo de cuenta y de los procesos de identificación solicitados por Mercado Pago. Debes completar la validación que corresponda."
+   ],
+   [
+    "¿Necesito una cuenta bancaria?",
+    "Los cobros se reciben en la cuenta de Mercado Pago asociada, conforme a sus condiciones. La necesidad de una cuenta externa depende de cómo quieras disponer del dinero."
+   ],
+   [
+    "¿Tiene renta mensual?",
+    "Los modelos se ofrecen sin renta mensual en las condiciones comerciales consultadas; pueden aplicar otros costos y condiciones."
+   ],
+   [
+    "¿Puedo cobrar con tarjeta de crédito y débito?",
+    "Sí, con tarjetas y modalidades compatibles con el modelo y las condiciones de la operación."
+   ],
+   [
+    "¿Acepta pagos sin contacto?",
+    "La disponibilidad depende del modelo, la tarjeta y la operación. Verifica la compatibilidad vigente del dispositivo."
+   ],
+   [
+    "¿Puedo ofrecer meses sin intereses?",
+    "Puede haber opciones para operaciones elegibles. Los meses sin intereses están sujetos a condiciones y pueden implicar cargos adicionales para el comercio."
+   ],
+   [
+    "¿La Point Mini necesita celular?",
+    "Sí. Requiere un celular compatible, Bluetooth y la aplicación correspondiente."
+   ],
+   [
+    "¿La Point Smart 2 necesita celular?",
+    "No para el cobro ordinario, si cuenta con conexión propia disponible."
+   ],
+   [
+    "¿La Point Mini imprime tickets?",
+    "No tiene impresora integrada. Los comprobantes se pueden entregar digitalmente mediante las opciones disponibles."
+   ]
+  ],
+  "aviso": "Especificaciones, tarifas, promociones, accesorios y condiciones pueden cambiar. Confirma la información vigente en los canales oficiales de Mercado Pago antes de comprar."
+ }
+}
